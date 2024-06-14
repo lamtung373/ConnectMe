@@ -20,7 +20,7 @@ class DeveloperPreview {
     let user = User(id: NSUUID().uuidString, fullname: "Tisp", email: "tisp@gmail.com", username: "tisp373")
     
     lazy var feed = Feed(
-        ownerUid: "123",
+        ownerUid: "1234",
         caption: "This is a test sdf adf á dfaosdf á d àoisf àoidy ápodfyaos foaisudf yoiasfyasu foiasu fyoiasdyf iuasdy foiuasdyofiausydf iayfioaus dỳoisdfiuahgsdifisf",
         imageUrl: ["dsfsdfs", "adasdsad"],
         timestamp: Timestamp(),
@@ -30,7 +30,7 @@ class DeveloperPreview {
     )
     
     lazy var reply = FeedReply(
-        feedId: "123",
+        feedId: "1234",
         replyText: "This is replyá dfsf ádf àoi sadfoiasdy fioasudfy óidufy áoiudfbfaiuwegf oáiuf baoisufoaisdfu gáoiudfg áiudfhioasudbf oiasugfiuasgfiusdgfiuas fgiausfg ioasugfoiaus",
         feedReplyOwnerUid: "12342",
         feedOwnerUid: "8273492",
