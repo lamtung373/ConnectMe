@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>API_KEY</key>
+	<string>AIzaSyACcWcCmlLYDG_vxRg921-RRQCvwgE__5M</string>
+	<key>GCM_SENDER_ID</key>
+	<string>634106950864</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>vn.Tisp.ConnectMe</string>
+	<key>PROJECT_ID</key>
+	<string>connectme-b6e48</string>
+	<key>STORAGE_BUCKET</key>
+	<string>connectme-b6e48.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:634106950864:ios:83d516b2cca18d7bc49ad5</string>
+</dict>
+</plist>
